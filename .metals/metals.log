@@ -1,0 +1,302 @@
+2024.10.10 20:25:05 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring' for client Visual Studio Code 1.94.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@601b48be]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@351ab356]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@601b48be]
+2024.10.10 20:25:06 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.10 20:25:08 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:25:14 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-14-050.md
+2024.10.10 20:25:14 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:25:14 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-14-437.md
+2024.10.10 20:25:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0xEC) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                      ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0xA080) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                       ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0xEC) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                        ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0x80) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                             ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0xBD) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                               ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:13: error: unmappable character (0xEC) for encoding x-windows-949
+@Transactional //data ???û•, Î≥?Í≤? ?ãú
+                                 ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:18: error: unmappable character (0xEC) for encoding x-windows-949
+    //DI: ?Éù?Ñ±?ûêÎ°?
+          ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:18: error: unmappable character (0xEC) for encoding x-windows-949
+    //DI: ?Éù?Ñ±?ûêÎ°?
+            ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:18: error: unmappable character (0xEC) for encoding x-windows-949
+    //DI: ?Éù?Ñ±?ûêÎ°?
+              ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:18: error: unmappable character (0x9C) for encoding x-windows-949
+    //DI: ?Éù?Ñ±?ûêÎ°?
+                 ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:23: error: unmappable character (0xED) for encoding x-windows-949
+    //?öå?õêÍ∞??ûÖ
+      ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:23: error: unmappable character (0xEC) for encoding x-windows-949
+    //?öå?õêÍ∞??ûÖ
+        ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:23: error: unmappable character (0x80) for encoding x-windows-949
+    //?öå?õêÍ∞??ûÖ
+           ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:23: error: unmappable character (0xEC) for encoding x-windows-949
+    //?öå?õêÍ∞??ûÖ
+            ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:24: error: unmappable character (0xEB) for encoding x-windows-949
+    public Long join(Member member) { //JPA?äî Î™®Îì† join Î≥?Í≤ΩÏù¥ trsct ?ïà ?ã§?ñâ
+                                           ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:24: error: unmappable character (0x80) for encoding x-windows-949
+    public Long join(Member member) { //JPA?äî Î™®Îì† join Î≥?Í≤ΩÏù¥ trsct ?ïà ?ã§?ñâ
+                                                        ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:24: error: unmappable character (0xEC) for encoding x-windows-949
+    public Long join(Member member) { //JPA?äî Î™®Îì† join Î≥?Í≤ΩÏù¥ trsct ?ïà ?ã§?ñâ
+                                                                   ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:24: error: unmappable character (0xEC) for encoding x-windows-949
+    public Long join(Member member) { //JPA?äî Î™®Îì† join Î≥?Í≤ΩÏù¥ trsct ?ïà ?ã§?ñâ
+                                                                      ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:24: error: unmappable character (0xED) for encoding x-windows-949
+    public Long join(Member member) { //JPA?äî Î™®Îì† join Î≥?Í≤ΩÏù¥ trsct ?ïà ?ã§?ñâ
+                                                                        ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:25: error: unmappable character (0xED) for encoding x-windows-949
+        //Ï§ëÎ≥µ?öå?õêx
+             ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:25: error: unmappable character (0xEC) for encoding x-windows-949
+        //Ï§ëÎ≥µ?öå?õêx
+               ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xEC) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                 ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xB8) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                    ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xED) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                         ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xEB) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                           ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xED) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                              ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:35: error: unmappable character (0xEC) for encoding x-windows-949
+                throw new IllegalStateException("?ù¥ÎØ? Ï°¥Ïû¨?ïò?äî ?öå?õê");
+                                                                ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:39: error: unmappable character (0xEC) for encoding x-windows-949
+    //?†ÑÏ≤? ?öå?õê Ï°∞Ìöå
+      ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:39: error: unmappable character (0xB4) for encoding x-windows-949
+    //?†ÑÏ≤? ?öå?õê Ï°∞Ìöå
+         ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:39: error: unmappable character (0xED) for encoding x-windows-949
+    //?†ÑÏ≤? ?öå?õê Ï°∞Ìöå
+           ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java:39: error: unmappable character (0xEC) for encoding x-windows-949
+    //?†ÑÏ≤? ?öå?õê Ï°∞Ìöå
+             ^
+10ø˘ 10, 2024 8:25:17 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-17-135.md
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java:9: error: unmappable character (0xEC) for encoding x-windows-949
+    //Í∏∞Îä•: ???û•, Í≤??Éâ(id, name, all)
+           ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java:9: error: unmappable character (0xA080) for encoding x-windows-949
+    //Í∏∞Îä•: ???û•, Í≤??Éâ(id, name, all)
+            ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java:9: error: unmappable character (0xEC) for encoding x-windows-949
+    //Í∏∞Îä•: ???û•, Í≤??Éâ(id, name, all)
+             ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java:9: error: unmappable character (0x80) for encoding x-windows-949
+    //Í∏∞Îä•: ???û•, Í≤??Éâ(id, name, all)
+                  ^
+C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java:9: error: unmappable character (0xEC) for encoding x-windows-949
+    //Í∏∞Îä•: ???û•, Í≤??Éâ(id, name, all)
+                   ^
+2024.10.10 20:25:41 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:25:41 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-41-674.md
+2024.10.10 20:25:45 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:25:45 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-45-733.md
+2024.10.10 20:25:47 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:25:47 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-25-47-554.md
+2024.10.10 20:26:00 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:26:01 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:26:02 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:26:02 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-26-02-199.md
+2024.10.10 20:26:28 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:26:28 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-26-28-890.md
+2024.10.10 20:26:28 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:26:29 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-26-29-319.md
+2024.10.10 20:26:42 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:26:42 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-26-42-513.md
+2024.10.10 20:26:42 WARN  no build target for: C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java
+2024.10.10 20:26:43 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:26:43 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-26-43-719.md
+2024.10.10 20:26:59 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:00 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-00-057.md
+2024.10.10 20:26:59 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:00 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-00-926.md
+2024.10.10 20:27:00 WARN  no build target for: C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:16 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+∞Ê∞Ì: Unmatched cancel notification for request id 87
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:15 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:17 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+∞Ê∞Ì: Unmatched cancel notification for request id 94
+2024.10.10 20:27:16 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:17 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-17-581.md
+2024.10.10 20:27:17 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:17 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-17-954.md
+2024.10.10 20:27:17 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:17 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:17 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:17 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:19 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:19 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:19 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:19 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:20 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:20 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:20 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:21 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:22 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-22-405.md
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:23 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-23-046.md
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:22 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:24 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:25 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:25 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:25 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:25 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-25-883.md
+2024.10.10 20:27:25 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:26 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:26 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:26 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:27 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:27 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:27 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:27:30 WARN  no build target for: C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java
+2024.10.10 20:27:33 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:33 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-33-904.md
+2024.10.10 20:27:37 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:27:37 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-27-37-567.md
+2024.10.10 20:27:38 WARN  no build target for: C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java
+10ø˘ 10, 2024 8:28:04 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+¡§∫∏: Unsupported notification method: $/setTrace
+2024.10.10 20:28:34 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\repository\MemberRepository.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:28:34 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-28-34-744.md
+2024.10.10 20:28:37 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:28:37 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-28-37-633.md
+2024.10.10 20:28:47 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:28:47 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-28-47-167.md
+2024.10.10 20:28:48 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:28:48 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-28-48-263.md
+2024.10.10 20:28:48 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:28:48 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-28-48-617.md
+10ø˘ 10, 2024 8:29:52 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+¡§∫∏: Unsupported notification method: $/setTrace
+10ø˘ 10, 2024 8:29:53 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+¡§∫∏: Unsupported notification method: $/setTrace
+2024.10.10 20:29:57 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:29:57 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-29-57-446.md
+2024.10.10 20:30:02 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:30:02 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-30-02-745.md
+2024.10.10 20:30:43 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:30:43 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-30-43-284.md
+2024.10.10 20:32:14 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:32:14 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-32-14-142.md
+10ø˘ 10, 2024 8:33:26 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+¡§∫∏: Unsupported notification method: $/setTrace
+2024.10.10 20:33:35 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:36 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-33-36-768.md
+2024.10.10 20:33:50 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:51 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-33-51-410.md
+2024.10.10 20:33:52 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:52 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+∞Ê∞Ì: Unmatched cancel notification for request id 254
+2024.10.10 20:33:52 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:52 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-33-52-832.md
+10ø˘ 10, 2024 8:33:53 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+∞Ê∞Ì: Unmatched cancel notification for request id 257
+2024.10.10 20:33:54 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:55 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-33-55-379.md
+2024.10.10 20:33:56 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.10 20:33:56 INFO  no build target found for C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\src\main\java\hello\hello_spring\service\MemberService.java. Using presentation compiler with project's scala-library version: 3.3.3
+10ø˘ 10, 2024 8:33:57 ø¿»ƒ scala.meta.internal.pc.CompilerAccess handleError
+Ω…∞¢: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\LG-PC\Desktop\code\Spring_study\hello-spring\.metals\.reports\metals-full\2024-10-10\r_compiler-error_20-33-57-431.md
+10ø˘ 10, 2024 8:34:07 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+¡§∫∏: Unsupported notification method: $/setTrace
+10ø˘ 10, 2024 8:34:19 ø¿»ƒ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+∞Ê∞Ì: Unmatched cancel notification for request id 268
+2024.10.10 20:34:41 INFO  Shutting down server
+2024.10.10 20:34:41 INFO  shutting down Metals
+2024.10.10 20:34:44 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
