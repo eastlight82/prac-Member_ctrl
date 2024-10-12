@@ -15,7 +15,7 @@ public class MemberService {
 
     private final MemberRepository memberRepository;
 
-    //DI: 생성자로
+    //DI: 생성자
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
